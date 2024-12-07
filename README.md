@@ -1,4 +1,4 @@
-# White-Labe-Crupto-Trading-Bot
+# White-Label-Crypto-Trading-Bot
 create an AI crypto trading bot that we can sell to people. So the end product must be something that lots of people can access online or in another way that can trade on their behalf. We would be selling access to the trading bot. You can use whitelabel or open source code to do this, that is fine by us. Affordable speed of implementation is most important here. 
 ================
 Creating a crypto trading bot that can be sold to people involves several steps, from designing the bot, integrating with crypto exchange APIs, ensuring the bot can make trading decisions, and deploying it for public use.
